@@ -1,0 +1,22 @@
+{
+  "name": "pekmez-mortgage",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@scala-js/vite-plugin-scalajs": "^1.0.0",
+    "sass": "^1.63.6",
+    "typescript": "^5.3.2",
+    "vite": "^5.0.4"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "5.3.2",
+    "chart.js": "^4.4.1"
+  }
+}

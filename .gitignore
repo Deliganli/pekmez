@@ -1,0 +1,26 @@
+**/.idea/
+**/.metals/
+**/.bsp/
+**/.bloop/
+**/.vscode/
+**/target/
+**/.scala-build/
+
+**/metals.sbt
+
+# Logs
+logs
+*.log
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+**/lerna-debug.log*
+
+# nodejs
+**/.parcel-cache
+**/node_modules
+**/dist
+**/dist-ssr
+**/*.local
+**/*.vite
