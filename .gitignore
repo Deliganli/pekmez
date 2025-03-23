@@ -24,3 +24,7 @@ logs
 **/dist-ssr
 **/*.local
 **/*.vite
+
+# nix
+result
+result-*
