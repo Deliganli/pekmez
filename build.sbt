@@ -4,7 +4,7 @@ val CCTT = "compile->compile;test->test;compile-internal->compile-internal"
 
 Global / onChangedBuildSource := ReloadOnSourceChanges
 
-ThisBuild / scalaVersion      := "3.3.1"
+ThisBuild / scalaVersion      := "3.3.5"
 ThisBuild / semanticdbEnabled := true
 ThisBuild / semanticdbVersion := scalafixSemanticdb.revision
 
@@ -51,8 +51,8 @@ lazy val `mortgage-web` = project
   )
 
 lazy val versions = new {
-  val jsoniter = "2.28.2"
-  val monocle  = "3.2.0"
-  val calico   = "0.2.2"
-  val munit    = "2.0.0-M4"
+  val jsoniter = "2.33.3"
+  val monocle  = "3.3.0"
+  val calico   = "0.2.3"
+  val munit    = "2.0.0"
 }
