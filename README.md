@@ -6,7 +6,7 @@ Set of tools to aid planning daily life.
 
 Calculate mortgage installment, compare home-ownership to hypothetical stock investing opportunity, find out which one is resulting in more net value.
 
-https://deliganli.com/mortgage
+https://mortgage.deliganli.com
 
 ### To run on local
 
